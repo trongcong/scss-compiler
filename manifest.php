@@ -17,9 +17,9 @@ The entire compiler comes in a single class file ready for including in any kind
 $manifest['version']     = '1.0.0';
 $manifest['display']     = true;
 $manifest['standalone']  = true;
-//$manifest['github_repo'] = 'https://github.com/ThemeFuse/Unyson-Breadcrumbs-Extension';
-//$manifest['uri'] = 'http://manual.unyson.io/en/latest/extension/breadcrumbs/index.html#content';
-$manifest['author'] = 'C';
-$manifest['author_uri'] = 'https://github.com/trongcong';
+$manifest['github_repo'] = 'https://github.com/trongcong/scss-compiler';
+$manifest['uri']         = 'https://github.com/trongcong/scss-compiler';
+$manifest['author']      = 'C';
+$manifest['author_uri']  = 'https://github.com/trongcong';
 
-//$manifest['github_update'] = 'ThemeFuse/Unyson-Breadcrumbs-Extension';
+$manifest['github_update'] = 'trongcong/scss-compiler';
