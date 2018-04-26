@@ -14,7 +14,7 @@ $manifest['name']        = esc_html( 'SCSS Compiler' );
 $manifest['description'] = esc_html( 'SCSS Compiler use scssphp is a compiler for SCSS written in PHP.
 SCSS is a CSS preprocessor that adds many features like variables, mixins, imports, color manipulation, functions, and tons of other powerful features.
 The entire compiler comes in a single class file ready for including in any kind of project in addition to a command line tool for running the compiler from the terminal.' );
-$manifest['version']     = '1.0.0';
+$manifest['version']     = '1.0.2';
 $manifest['display']     = true;
 $manifest['standalone']  = true;
 $manifest['github_repo'] = 'https://github.com/trongcong/scss-compiler';
